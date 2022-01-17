@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @goncalovideira
-- 👀 I’m interested in business and programming
+- 👀 I’m interested in business, innovation and programming
 - 🌱 I’m currently learning Power Platform and Git
 - 💞️ I’m looking to collaborate on Power Platform Porjects
 - 📫 How to reach me: gvideira@byzapplabs.com
